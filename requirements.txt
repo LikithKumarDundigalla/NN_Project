@@ -1,0 +1,5 @@
+datasets
+pandas
+transformers
+tensorflow
+numpy
